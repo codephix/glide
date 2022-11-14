@@ -1,5 +1,5 @@
 {
-    "name": "league/glide",
+    "name": "codephix/glide",
     "description": "Wonderfully easy on-demand image manipulation library with an HTTP based API.",
     "keywords": [
         "league",
@@ -26,7 +26,7 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": ">=7.2",
         "intervention/image": "^2.7",
         "league/flysystem": "^2.0|^3.0",
         "psr/http-message": "^1.0"
